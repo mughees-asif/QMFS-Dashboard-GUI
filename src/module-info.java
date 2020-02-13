@@ -5,5 +5,5 @@ module DashboardGUI {
     requires eu.hansolo.medusa;
     requires CustomStage;
 
-    opens sample;
+    opens dashboard;
 }
