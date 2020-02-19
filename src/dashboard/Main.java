@@ -1,3 +1,10 @@
+/*
+TODO:   Make proper folder structure
+        Research low latency gauges
+        Check F1 designs
+ */
+
+
 package dashboard;
 
 import eu.hansolo.medusa.Gauge;
